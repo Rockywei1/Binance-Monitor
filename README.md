@@ -14,9 +14,9 @@ This project is monitors price changes on the Binance exchange and sends notific
 
 -How to Use?
 
--Run Binance Monitor.py
+-Run binance monitor.py
 
--You must get access telegram API Token and Chat ID, fill them to settings
+-You must get access telegram API Token and Chat ID, fill them to settings (You can ask chatgpt3.5 for help or google how to get telegram API token and Chat ID)
 
 -Binance Api and Secret is not necessary
 
