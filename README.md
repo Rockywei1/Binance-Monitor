@@ -26,8 +26,4 @@ Caution:
 
 If you can not run this code, you may need VPN
 
-Buy me a coffee:
-BNB: 0x65E4802AC33e5bbBdC2fa7434c402b8F7e589101
-USDT(BEP20): 0x65E4802AC33e5bbBdC2fa7434c402b8F7e589101
-
 
