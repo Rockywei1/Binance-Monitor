@@ -14,13 +14,7 @@ This project monitors price changes on the Binance exchange and sends notificati
 
 - Highly recommend installing PyCharm to compile.
 
-- pip install PyQt5
-
-- pip install requests
-
-- pip install python-telegram-bot
-
-- pip install python-binance
+- pip install -r requirements.txt
 
 How to Use:
 
